@@ -1,0 +1,4 @@
+repository=CSV
+clients=clients_CSV
+movies=movies_CSV
+rentals=rentals_CSV
