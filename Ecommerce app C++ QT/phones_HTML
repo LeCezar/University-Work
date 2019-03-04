@@ -1,0 +1,9 @@
+<!DOCTYPE html> <html><head>    <title>Phone list</title></head> <body><table border="1">    <tr>    <td>Manufacturer</td> <td>Model</td> <td>Photo</td> <td>Price</td><td>Quantity</td>    </tr>    <tr>    <td>Samsung</td> <td>Galaxy S9</td> <td><a href="https://i.gadgets360cdn.com/products/large/1519585124_635_samsung_galaxy_s9_blue.jpg">Photo</a></td> <td>830$</td> <td>3</td>
+    </tr>    <tr>    <td>Samsung</td> <td>Galaxy S8</td> <td><a href="https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5770/5770900cv20d.jpg">Photo</a></td> <td>700$</td> <td>2</td>
+    </tr>    <tr>    <td>Samsung</td> <td>Galaxy S8</td> <td><a href="https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5770/5770900cv20d.jpg">Photo</a></td> <td>700$</td> <td>2</td>
+    </tr>    <tr>    <td>Apple</td> <td>Iphone X</td> <td><a href="https://cdn.macrumors.com/article-new/2017/10/iphone-x-silver.jpg">Photo</a></td> <td>1000$</td> <td>4</td>
+    </tr>    <tr>    <td>LG</td> <td>V30</td> <td><a href="https://ss7.vzw.com/is/image/VerizonWireless/lg-v30-kf-1-d-0917?$pngalpha$&scl=1">Photo</a></td> <td>700$</td> <td>3</td>
+    </tr>    <tr>    <td>OnePlus</td> <td>5T</td> <td><a href="https://cnet2.cbsistatic.com/img/T_Lgv0_yIfpEJg5RPUwSOY1BLpU=/770x433/2017/11/28/326ee081-c1fb-4f52-9964-6e92d9d14255/oneplus-5t-header.jpg">Photo</a></td> <td>500$</td> <td>6</td>
+    </tr>    <tr>    <td>OnePlus</td> <td>3T</td> <td><a href="https://cnet2.cbsistatic.com/img/UHZvp-ldibQV3yePpXRhP-kGEQQ=/770x433/2017/01/24/a5a951ec-acfa-4ecb-9e2c-2ebaf61d0283/oneplus-3t-header.jpg">Photo</a></td> <td>400$</td> <td>32708</td>
+    </tr>    <tr>    <td>LG</td> <td>G7</td> <td><a href="open https://www.gadget.ro/wp-content/uploads/2018/05/LG-G7-ThinQ-7.jpg">Photo</a></td> <td>700$</td> <td>2</td>
+    </tr></table></body> </html>
