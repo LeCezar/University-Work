@@ -1,0 +1,518 @@
+<><><><><><><><><><><><><><><><><><><><>
+ID: 1
+ExeStack:
+(v = 10;(new(a,22);(fork ((writeHeap(a,30);(v = 32;(print (v);print (a)))));(print (v);print (a)))))
+
+Sym Table:
+
+Heap:
+
+File table:
+
+Print output:
+<><><><><><><><><><><><><><><><><><><><>
+ID: 1
+ExeStack:
+v = 10
+(new(a,22);(fork ((writeHeap(a,30);(v = 32;(print (v);print (a)))));(print (v);print (a))))
+
+Sym Table:
+
+Heap:
+
+File table:
+
+Print output:
+<><><><><><><><><><><><><><><><><><><><>
+ID: 1
+ExeStack:
+v = 10
+(new(a,22);(fork ((writeHeap(a,30);(v = 32;(print (v);print (a)))));(print (v);print (a))))
+
+Sym Table:
+
+Heap:
+
+File table:
+
+Print output:
+<><><><><><><><><><><><><><><><><><><><>
+ID: 1
+ExeStack:
+(new(a,22);(fork ((writeHeap(a,30);(v = 32;(print (v);print (a)))));(print (v);print (a))))
+
+Sym Table:
+Key: v Value: 10
+
+Heap:
+
+File table:
+
+Print output:
+<><><><><><><><><><><><><><><><><><><><>
+ID: 1
+ExeStack:
+(new(a,22);(fork ((writeHeap(a,30);(v = 32;(print (v);print (a)))));(print (v);print (a))))
+
+Sym Table:
+Key: v Value: 10
+
+Heap:
+
+File table:
+
+Print output:
+<><><><><><><><><><><><><><><><><><><><>
+ID: 1
+ExeStack:
+new(a,22)
+(fork ((writeHeap(a,30);(v = 32;(print (v);print (a)))));(print (v);print (a)))
+
+Sym Table:
+Key: v Value: 10
+
+Heap:
+
+File table:
+
+Print output:
+<><><><><><><><><><><><><><><><><><><><>
+ID: 1
+ExeStack:
+new(a,22)
+(fork ((writeHeap(a,30);(v = 32;(print (v);print (a)))));(print (v);print (a)))
+
+Sym Table:
+Key: v Value: 10
+
+Heap:
+
+File table:
+
+Print output:
+<><><><><><><><><><><><><><><><><><><><>
+ID: 1
+ExeStack:
+(fork ((writeHeap(a,30);(v = 32;(print (v);print (a)))));(print (v);print (a)))
+
+Sym Table:
+Key: a Value: -448216948
+Key: v Value: 10
+
+Heap:
+Address: -448216948 Content: 22
+
+File table:
+
+Print output:
+<><><><><><><><><><><><><><><><><><><><>
+ID: 1
+ExeStack:
+(fork ((writeHeap(a,30);(v = 32;(print (v);print (a)))));(print (v);print (a)))
+
+Sym Table:
+Key: a Value: -448216948
+Key: v Value: 10
+
+Heap:
+Address: -448216948 Content: 22
+
+File table:
+
+Print output:
+<><><><><><><><><><><><><><><><><><><><>
+ID: 1
+ExeStack:
+fork ((writeHeap(a,30);(v = 32;(print (v);print (a)))))
+(print (v);print (a))
+
+Sym Table:
+Key: a Value: -448216948
+Key: v Value: 10
+
+Heap:
+Address: -448216948 Content: 22
+
+File table:
+
+Print output:
+<><><><><><><><><><><><><><><><><><><><>
+ID: 1
+ExeStack:
+fork ((writeHeap(a,30);(v = 32;(print (v);print (a)))))
+(print (v);print (a))
+
+Sym Table:
+Key: a Value: -448216948
+Key: v Value: 10
+
+Heap:
+Address: -448216948 Content: 22
+
+File table:
+
+Print output:
+<><><><><><><><><><><><><><><><><><><><>
+ID: 1
+ExeStack:
+(print (v);print (a))
+
+Sym Table:
+Key: a Value: -448216948
+Key: v Value: 10
+
+Heap:
+Address: -448216948 Content: 22
+
+File table:
+
+Print output:
+<><><><><><><><><><><><><><><><><><><><>
+ID: 10
+ExeStack:
+(writeHeap(a,30);(v = 32;(print (v);print (a))))
+
+Sym Table:
+Key: a Value: -448216948
+Key: v Value: 10
+
+Heap:
+Address: -448216948 Content: 22
+
+File table:
+
+Print output:
+<><><><><><><><><><><><><><><><><><><><>
+ID: 1
+ExeStack:
+(print (v);print (a))
+
+Sym Table:
+Key: a Value: -448216948
+Key: v Value: 10
+
+Heap:
+Address: -448216948 Content: 22
+
+File table:
+
+Print output:
+<><><><><><><><><><><><><><><><><><><><>
+ID: 10
+ExeStack:
+(writeHeap(a,30);(v = 32;(print (v);print (a))))
+
+Sym Table:
+Key: a Value: -448216948
+Key: v Value: 10
+
+Heap:
+Address: -448216948 Content: 22
+
+File table:
+
+Print output:
+<><><><><><><><><><><><><><><><><><><><>
+ID: 1
+ExeStack:
+print (v)
+print (a)
+
+Sym Table:
+Key: a Value: -448216948
+Key: v Value: 10
+
+Heap:
+Address: -448216948 Content: 22
+
+File table:
+
+Print output:
+<><><><><><><><><><><><><><><><><><><><>
+ID: 10
+ExeStack:
+writeHeap(a,30)
+(v = 32;(print (v);print (a)))
+
+Sym Table:
+Key: a Value: -448216948
+Key: v Value: 10
+
+Heap:
+Address: -448216948 Content: 22
+
+File table:
+
+Print output:
+<><><><><><><><><><><><><><><><><><><><>
+ID: 1
+ExeStack:
+print (v)
+print (a)
+
+Sym Table:
+Key: a Value: -448216948
+Key: v Value: 10
+
+Heap:
+Address: -448216948 Content: 22
+
+File table:
+
+Print output:
+<><><><><><><><><><><><><><><><><><><><>
+ID: 10
+ExeStack:
+writeHeap(a,30)
+(v = 32;(print (v);print (a)))
+
+Sym Table:
+Key: a Value: -448216948
+Key: v Value: 10
+
+Heap:
+Address: -448216948 Content: 22
+
+File table:
+
+Print output:
+<><><><><><><><><><><><><><><><><><><><>
+ID: 1
+ExeStack:
+print (a)
+
+Sym Table:
+Key: a Value: -448216948
+Key: v Value: 10
+
+Heap:
+Address: -448216948 Content: 30
+
+File table:
+
+Print output:
+10
+<><><><><><><><><><><><><><><><><><><><>
+ID: 10
+ExeStack:
+(v = 32;(print (v);print (a)))
+
+Sym Table:
+Key: a Value: -448216948
+Key: v Value: 10
+
+Heap:
+Address: -448216948 Content: 30
+
+File table:
+
+Print output:
+10
+<><><><><><><><><><><><><><><><><><><><>
+ID: 1
+ExeStack:
+print (a)
+
+Sym Table:
+Key: a Value: -448216948
+Key: v Value: 10
+
+Heap:
+Address: -448216948 Content: 30
+
+File table:
+
+Print output:
+10
+<><><><><><><><><><><><><><><><><><><><>
+ID: 10
+ExeStack:
+(v = 32;(print (v);print (a)))
+
+Sym Table:
+Key: a Value: -448216948
+Key: v Value: 10
+
+Heap:
+Address: -448216948 Content: 30
+
+File table:
+
+Print output:
+10
+<><><><><><><><><><><><><><><><><><><><>
+ID: 1
+ExeStack:
+
+Sym Table:
+Key: a Value: -448216948
+Key: v Value: 10
+
+Heap:
+Address: -448216948 Content: 30
+
+File table:
+
+Print output:
+10
+30
+<><><><><><><><><><><><><><><><><><><><>
+ID: 10
+ExeStack:
+v = 32
+(print (v);print (a))
+
+Sym Table:
+Key: a Value: -448216948
+Key: v Value: 10
+
+Heap:
+Address: -448216948 Content: 30
+
+File table:
+
+Print output:
+10
+30
+<><><><><><><><><><><><><><><><><><><><>
+ID: 10
+ExeStack:
+v = 32
+(print (v);print (a))
+
+Sym Table:
+Key: a Value: -448216948
+Key: v Value: 10
+
+Heap:
+Address: -448216948 Content: 30
+
+File table:
+
+Print output:
+10
+30
+<><><><><><><><><><><><><><><><><><><><>
+ID: 10
+ExeStack:
+(print (v);print (a))
+
+Sym Table:
+Key: a Value: -448216948
+Key: v Value: 32
+
+Heap:
+Address: -448216948 Content: 30
+
+File table:
+
+Print output:
+10
+30
+<><><><><><><><><><><><><><><><><><><><>
+ID: 10
+ExeStack:
+(print (v);print (a))
+
+Sym Table:
+Key: a Value: -448216948
+Key: v Value: 32
+
+Heap:
+Address: -448216948 Content: 30
+
+File table:
+
+Print output:
+10
+30
+<><><><><><><><><><><><><><><><><><><><>
+ID: 10
+ExeStack:
+print (v)
+print (a)
+
+Sym Table:
+Key: a Value: -448216948
+Key: v Value: 32
+
+Heap:
+Address: -448216948 Content: 30
+
+File table:
+
+Print output:
+10
+30
+<><><><><><><><><><><><><><><><><><><><>
+ID: 10
+ExeStack:
+print (v)
+print (a)
+
+Sym Table:
+Key: a Value: -448216948
+Key: v Value: 32
+
+Heap:
+Address: -448216948 Content: 30
+
+File table:
+
+Print output:
+10
+30
+<><><><><><><><><><><><><><><><><><><><>
+ID: 10
+ExeStack:
+print (a)
+
+Sym Table:
+Key: a Value: -448216948
+Key: v Value: 32
+
+Heap:
+Address: -448216948 Content: 30
+
+File table:
+
+Print output:
+10
+30
+32
+<><><><><><><><><><><><><><><><><><><><>
+ID: 10
+ExeStack:
+print (a)
+
+Sym Table:
+Key: a Value: -448216948
+Key: v Value: 32
+
+Heap:
+Address: -448216948 Content: 30
+
+File table:
+
+Print output:
+10
+30
+32
+<><><><><><><><><><><><><><><><><><><><>
+ID: 10
+ExeStack:
+
+Sym Table:
+Key: a Value: -448216948
+Key: v Value: 32
+
+Heap:
+Address: -448216948 Content: 30
+
+File table:
+
+Print output:
+10
+30
+32
+30
